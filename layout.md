@@ -12,3 +12,4 @@ div_GERD_disease_that_affects__.html
 div_Methods_br_div__.html
 div_Results_br_div__.html
 div_Discussion_br_div__.html
+div_References_br_div__.html
