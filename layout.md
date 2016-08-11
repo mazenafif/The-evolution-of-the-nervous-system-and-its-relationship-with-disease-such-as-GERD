@@ -5,3 +5,4 @@ div_Tell_0772707290_br_div__.html
 div_E_mail_a_href__.html
 div_Website_a_href_http__.html
 div_Facebook_a_href_https__.html
+div_Linkedin_a_href_https__.html
