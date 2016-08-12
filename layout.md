@@ -8,7 +8,7 @@ div_Facebook_a_href_https__.html
 div_Linkedin_a_href_https__.html
 div_Abstract_br_div__.html
 div_Indirection_br_div__.html
-div_GERD_disease_that_affects__.html
+GERD_disease_that_affects_many__.html
 div_Methods_br_div__.html
 div_Results_br_div__.html
 div_Discussion_br_div__.html
