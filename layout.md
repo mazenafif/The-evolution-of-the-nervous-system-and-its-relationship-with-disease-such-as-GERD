@@ -1,6 +1,5 @@
 div_The_relationship_between_Olfactory__.html
 div_Mazen_Ahmed_A_Afif__.html
-div_Substitute_teacher_Al_Shuaib__.html
 div_E_mail_a_href__.html
 div_Facebook_a_href_https__.html
 div_Linkedin_a_href_https__.html
