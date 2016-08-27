@@ -4,6 +4,6 @@ div_Abstract_br_div__.html
 Introduction__.html
 GERD_disease_that_affects_many__.html
 div_Methods_br_div__.html
-div_Results_br_div__.html
+Results_1_Gerd_A_genetic__.html
 div_Discussion_br_div__.html
 References_1_2_Lee_Annemarie__.html
