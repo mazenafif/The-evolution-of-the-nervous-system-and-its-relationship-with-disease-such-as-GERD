@@ -2,7 +2,7 @@ Mazen_Ahmed_A_Afif_Substitute__.html
 Abstract_In_this_research_explain__.html
 Introduction__.html
 GERD_disease_that_affects_many__.html
-Methods_Observation_of_Conduct_for__.html
+Methods_Interaction_between_the_nervous__.html
 Results_1_Gerd_A_genetic__.html
 div_Discussion_br_div__.html
 References_1_2_3__.html
